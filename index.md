@@ -9,11 +9,11 @@ date: '2018-06-17T14:16:11.928Z'
 
 {: style="text-align: center; color:red!important; font-weight:bold;"}
 
-### <a id="_4paibjdc3o0d"></a>I will outline in this tutorial how you can use the reward site [Earnably](https://earnably.com/i/LucyGotLocks) to generate $10 very quickly.
+### <a id="_4paibjdc3o0d"></a>I will outline in this tutorial how you can use the reward site [Earnably](https://earnably.com/i/LucyGotLocks) to generate $10 in BTC very quickly.
 
 {: style="text-align: center;"}
 
-### <a id="_ielpmox2hvee"></a>Once you complete these 3 simple things you can cash out your $10.
+### <a id="_ielpmox2hvee"></a>Once you complete these 3 simple things you can cash out your $10 in bitcoin.
 
 {: style="text-align: center;"}
 
@@ -30,8 +30,7 @@ date: '2018-06-17T14:16:11.928Z'
 {: style="text-align: center;"}
 
 # <a id="_snfz3g7bac29"></a>[Account Already Set Up? Let's Get Started!](https://earnably.github.io#start)
-
-{: style="text-align: center;"}'
+{: style="text-align: center;"}
 
 # <a id="_wcbyik9p97p8"></a>Go To The Adscend Media Offer Wall
 
