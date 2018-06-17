@@ -8,4 +8,4 @@ layout: home
 
 [First Sign Up & Create Your Free Account](https://earnably.com/i/LucyGotLocks)
 
-[**![](../../../../images/img-43407ee3-5198-4f04-a719-4d0752cc86f8.jpg)**](https://earnably.com/i/LucyGotLocks)[**![](../../../../images/img-24247a87-fbf7-4532-9992-96af7000b368.png)**](https://earnably.com/i/LucyGotLocks)
+[**![](../../../../images/img-48f1abdf-630c-42da-8cc0-38dc4ee7b4d8.jpg)**](https://earnably.com/i/LucyGotLocks)[**![](../../../../images/img-1cfb819a-2c34-402f-81b1-2f6422f4c406.png)**](https://earnably.com/i/LucyGotLocks)

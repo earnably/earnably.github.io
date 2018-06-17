@@ -1,7 +1,5 @@
 ---
 date: '2018-06-17T14:16:17.043Z'
-layout: postdf
-"": ""
 categories: 'jekyll update'
 ---
 This file is in the **Posts** folder in your office suite, but in the **_posts** directory in Github. Look at the file conversion rules in your Cloudstitch project to see how we did that.
