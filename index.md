@@ -19,7 +19,7 @@ date: '2018-06-17T14:16:11.928Z'
 # <a id="start"></a>Login & Click Earn In The Top Menu
 {: style="text-align: center; color:red!important; font-weight:bold;"}
 
-# <a id="_wcbyik9p97p8"></a>Now Select Offer Walls
+# <a id="_wcbyik9p97p8"></a>Select Offer Walls
 {: style="text-align: center;"}
 ![](../../../../images/img-ca3bb07b-2904-4e03-b973-dd81d127a560.png)
 {: style="text-align: center;"}
