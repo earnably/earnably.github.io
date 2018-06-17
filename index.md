@@ -32,10 +32,11 @@ date: '2018-06-17T14:16:11.928Z'
 # <a id="_snfz3g7bac29"></a>[Account Already Set Up? Let's Get Started!](https://earnably.github.io#start)
 {: style="text-align: center;"}
 
-# <a id="_wcbyik9p97p8"></a>Go To The Adscend Media Offer Wall
-
+# <a id="_wcbyik9p97p8"></a>Login & Click Earn In The Top Menu
 {: style="text-align: center; color:red!important; font-weight:bold;"}
-
+### <a id="_wcbyik9p97p8"></a>Now Select Offer Walls
+{: style="text-align: center;"}
+### <a id="_wcbyik9p97p8"></a>Next Select Adscend Media Offer Wall
+{: style="text-align: center;"}
 # <a id="_wcbyik9p97p8"></a>Sort Offers From High To Low
-
 {: style="text-align: center;"}
