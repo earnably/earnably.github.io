@@ -17,21 +17,13 @@ date: '2018-06-17T14:16:11.928Z'
 
 # <a id="start"></a>Login & Click Earn In The Top Menu
 {: style="text-align: center; color:red!important; font-weight:bold;"}
-# <a id="_wcbyik9p97p8"></a>Now Select Offer Walls
-{: style="text-align: center;"}
-# <a id="_wcbyik9p97p8"></a>Next Select Adscend Media Offer Wall
-{: style="text-align: center;"}
-# <a id="_wcbyik9p97p8"></a>Sort Offers From High To Low
-{: style="text-align: center;"}
 
-# <a id="_wcbyik9p97p8"></a>Next Select Adscend Media Offer Wall
-
+# <a id="_wcbyik9p97p8"></a>Choose Offer Walls & Select Adscend Media 
+{: style="text-align: center;"}
 ![](../../../../images/img-48e1c5be-957c-4d01-9d57-4ea68470604e.png)
-
 {: style="text-align: center;"}
 
 # <a id="_wcbyik9p97p8"></a>Sort Offers From High To Low
-
+{: style="text-align: center;"}
 ![](../../../../images/img-e29104b3-5694-474d-8821-53747a49a2fb.png)
-
 {: style="text-align: center;"}
